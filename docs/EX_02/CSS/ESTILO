@@ -1,0 +1,18 @@
+.autor{
+color: darkblue;
+
+}
+
+.autorprof{
+    
+    
+    }
+
+.description{
+    
+
+}
+
+.contato{
+    border-style: double;
+}
